@@ -1,2 +1,2 @@
 # recsim
-The recommendatıon system is based on simulatıon
+The recommendation system is based on simulation
